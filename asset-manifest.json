@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thinkit/static/css/main.f5305ce6.chunk.css",
+    "main.css": "/thinkit/static/css/main.83c3916e.chunk.css",
     "main.js": "/thinkit/static/js/main.966c8229.chunk.js",
     "main.js.map": "/thinkit/static/js/main.966c8229.chunk.js.map",
     "runtime-main.js": "/thinkit/static/js/runtime-main.f0f87b83.js",
@@ -12,9 +12,9 @@
     "static/js/3.2fc6d82b.chunk.js.map": "/thinkit/static/js/3.2fc6d82b.chunk.js.map",
     "index.html": "/thinkit/index.html",
     "static/css/2.ca55494a.chunk.css.map": "/thinkit/static/css/2.ca55494a.chunk.css.map",
-    "static/css/main.f5305ce6.chunk.css.map": "/thinkit/static/css/main.f5305ce6.chunk.css.map",
+    "static/css/main.83c3916e.chunk.css.map": "/thinkit/static/css/main.83c3916e.chunk.css.map",
     "static/js/2.47f0ad4c.chunk.js.LICENSE.txt": "/thinkit/static/js/2.47f0ad4c.chunk.js.LICENSE.txt",
-    "static/media/plugins.css": "/thinkit/static/media/themify.f0fc8c79.svg",
+    "static/media/plugins.css": "/thinkit/static/media/themify.eda8b943.ttf",
     "static/media/about1.a2a29d24.jpg": "/thinkit/static/media/about1.a2a29d24.jpg",
     "static/media/about2.148f9327.jpg": "/thinkit/static/media/about2.148f9327.jpg",
     "static/media/bg-map.c516afe1.jpg": "/thinkit/static/media/bg-map.c516afe1.jpg",
@@ -112,7 +112,7 @@
     "static/js/runtime-main.f0f87b83.js",
     "static/css/2.ca55494a.chunk.css",
     "static/js/2.47f0ad4c.chunk.js",
-    "static/css/main.f5305ce6.chunk.css",
+    "static/css/main.83c3916e.chunk.css",
     "static/js/main.966c8229.chunk.js"
   ]
 }
